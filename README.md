@@ -32,7 +32,6 @@ Demonstrates practical skills in:
 
 ### How to Use
 
-### How to use
 ```bash
 git clone https://github.com/Vaiy108/aircraft-connectivity-test-automation.git
 cd aircraft-connectivity-test-automation/scripts
